@@ -211,7 +211,7 @@ Sous le format : 11h 12m 06s
 - [x] Utilisation du tableau associatif `$_SESSION` pour accéder aux valeurs stockées dans la session
 - [ ] Parcours du tableau grâce à une boucle
 - [x] Utilisation de la fonction PHP `filter_var`
-- [ ] Ajout d'éléments à la fin d'un tableau
+- [x] Ajout d'éléments à la fin d'un tableau
 - [x] Ajout d'élements à une clé précise du tableau associatif `$_SESSION`
 
 ### Commentaires
